@@ -5,6 +5,10 @@ A community-driven open-source learning platform to help developers learn, build
 > Learn → Practice → Build → Contribute
 
 ---
+## 📸 Project Overview
+<p align="center">
+  <img src="Screenshot 2026-01-17 201940.png" alt="MERN-LOG Project Overview" width="800"/>
+</p>
 
 ## 📌 About the Project
 
